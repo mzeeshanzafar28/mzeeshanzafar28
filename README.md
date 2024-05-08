@@ -1,4 +1,6 @@
-<div style="background-color:purple;">
+<table style="background-color: purple; width: 100%;">
+<tr>
+<td>
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
 <h3 align="center">A passionate Full Stack developer and Ethical Hacker from Pakistan</h3>
 
@@ -28,4 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzeeshanzafar28&show_icons=true&locale=en" alt="mzeeshanzafar28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzeeshanzafar28&" alt="mzeeshanzafar28" /></p>
-</div>
+</td>
+</tr>
+</table>
