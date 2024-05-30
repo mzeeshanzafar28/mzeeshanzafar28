@@ -1,4 +1,4 @@
-<img alt="header.png" src="Zeeshan7.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="header.png" src="Zeeshan6.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
 <h3 align="center">A passionate Full Stack developer and Ethical Hacker from Pakistan</h3>
 
@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzeeshanzafar28&show_icons=true&locale=en" alt="mzeeshanzafar28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzeeshanzafar28&" alt="mzeeshanzafar28" /></p>
-<img alt="footer.png" src="https://github.com/imvast/imvast/blob/main/footer.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="footer.png" src="footer.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
