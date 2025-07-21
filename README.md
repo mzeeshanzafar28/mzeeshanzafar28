@@ -1,6 +1,6 @@
 <img alt="header.png" src="Zeeshan6.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
-<h3 align="center">A passionate Full Stack developer and Ethical Hacker from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer and Certified Ethical Hacker from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzeeshanzafar28&label=Profile%20views&color=0e75b6&style=flat" alt="mzeeshanzafar28" /> </p>
 
