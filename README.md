@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzeeshanzafar28" alt="mzeeshanzafar28" /></a> </p>
 
-- 🔭 I’m currently working on **WordPress Plugin Development - Laravel - Pentesting**
+- 🔭 I’m currently working on **WordPress Plugin Development | Laravel | Pentesting**
 
 - 📫 How to reach me **mzeeshanzafar28@gmail.com**
 
