@@ -52,11 +52,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzeeshanzafar28&show_icons=true&locale=en" alt="mzeeshanzafar28" /></p>
 -->
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mzeeshanzafar28&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mzeeshanzafar28&layout=compact&theme=radical" height="180" alt="languages graph" />
-  
-  <br/> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mzeeshanzafar28&theme=radical" alt="streak graph" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=mzeeshanzafar28&show_icons=true&theme=radical" width="400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mzeeshanzafar28&layout=compact&theme=radical" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mzeeshanzafar28&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <img alt="footer.png" src="footer.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
