@@ -53,7 +53,7 @@
 -->
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mzeeshanzafar28&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mzeeshanzafar28&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mzeeshanzafar28&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mzeeshanzafar28&theme=radical)
 
 <img alt="footer.png" src="footer.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
