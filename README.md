@@ -9,8 +9,9 @@
 - 🔭 I’m currently working on **WordPress Plugin Development | Laravel | Pentesting**
 - 📫 How to reach me **mzeeshanzafar28@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
+<div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td><a href="https://www.linkedin.com/in/m-zeeshan-zafar-9205a1248/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m zeeshan zafar" height="30" width="40" /></a></td>
@@ -19,8 +20,9 @@
     <td><a href="https://tryhackme.com/p/mzeeshanzafar28" target="blank"><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="mzeeshanzafar28" height="30" width="40" /></a></td>
   </tr>
 </table>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
@@ -48,6 +50,7 @@
 
 <br />
 
+<div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a></td>
@@ -72,9 +75,10 @@
     <td><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a></td>
+    <td align="center" colspan="9"><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a></td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <table>
